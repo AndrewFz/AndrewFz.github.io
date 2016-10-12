@@ -10,7 +10,7 @@ h1 {
 }
 
 body {
-    background-color: powderblue;
-    border-style: grey;
+    background-color: grey;
+    border-style: ridge;
     border-color: black;
 }
