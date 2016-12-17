@@ -1,5 +1,5 @@
 #first-paragraph {
-    color: white;
+    color: grey;
     font-size: 20px;
     text-align: center;
 }
@@ -14,4 +14,8 @@ body {
     
   background-image: url("http://hdw7.com/wallpapers/412/simple-soft-yellow-abstract-lines-hd-background.jpg");
 }
+
+table{
+    text-align: "center";
+    
 
