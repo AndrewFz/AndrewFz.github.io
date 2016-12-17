@@ -5,7 +5,7 @@
 }
 
 h1 {
-    color: red;
+    color: grey;
     font-family: verdana;
     text-align: center;
 }
@@ -15,7 +15,10 @@ body {
   background-image: url("http://hdw7.com/wallpapers/412/simple-soft-yellow-abstract-lines-hd-background.jpg");
 }
 
-table{
+Table.center{
     text-align: "center";
+    margin-left:auto;
+    margin-right:auto;
+}
     
 
