@@ -15,10 +15,14 @@ body {
   background-image: url("http://hdw7.com/wallpapers/412/simple-soft-yellow-abstract-lines-hd-background.jpg");
 }
 
-Table.center{
+table.center{
     text-align: "center";
     margin-left:auto;
     margin-right:auto;
+}
+
+hr{
+    width: 50%;
 }
     
 
