@@ -21,8 +21,13 @@ table.center{
     margin-right:auto;
 }
 
-hr{
+hr.1{
     width: 40%;
+}
+
+hr.2{
+    width: 2%;
+    size: 15%;
 }
     
 
